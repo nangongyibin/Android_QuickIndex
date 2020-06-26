@@ -382,7 +382,7 @@ showCurrentWord的方法实现如下：
 
 
     dependencies {
-	        implementation 'com.github.nangongyibin7219:Android_QuickIndex:1.0.0'
+	        implementation 'com.github.nangongyibin:Android_QuickIndex:1.0.0'
 	}
 
 
